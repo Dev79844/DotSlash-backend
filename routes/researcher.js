@@ -1,6 +1,6 @@
 const express = require('express')
 const router = express.Router()
-const {registerUser, loginUser, getProfile, addPublication, addAwards, addConference, addQualification, addBookChapters} = require('../controllers/researcher')
+const {registerUser, loginUser, getProfile, addPublication, addAwards, addConference, addQualification, addBookChapters, addBio} = require('../controllers/researcher')
 const auth = require('../middlewares/auth')
 
 router.post("/register", registerUser)
@@ -11,6 +11,7 @@ router.put("/awards/:id", addAwards)
 router.put("/conference/:id", addConference)
 router.put("/bc/:id", addBookChapters)
 router.put("/qual/:id", addQualification)
+router.put("/bio/:id", addBio)
 router.get("/test",auth, (req,res) => {
     res.send("Hello")
 })

@@ -192,3 +192,19 @@ exports.addBookChapters = async (req, res) => {
     console.log(error)
   }
 }
+
+exports.addBio = async(req,res) => {
+    try{
+        const id = req.params.id
+        const {updatedBio} = req.body
+
+        const data = await User.findByIdAndUpdate({_id: id}, {bio: updatedBio})
+
+        const updatedUser = await User.findById(id)
+
+        res.status(200).json(updatedUser)
+
+    }catch(error){
+        console.log(error)
+    }
+}
