@@ -94,6 +94,7 @@ exports.loginUser = async (req, res) => {
 exports.getProfile = async (req, res) => {
   try {
     const id = req.params.id
+    // console.log(req)
 
     const data = await User.findById(id)
 
@@ -110,7 +111,7 @@ exports.addPublication = async (req, res) => {
 
     const data = await User.findByIdAndUpdate(
       {_id: id},
-      {publication: updatedPublication}
+      {$push: {publication: updatedPublication}}
     )
 
     const updatedUser = await User.findById(id)
@@ -193,18 +194,17 @@ exports.addBookChapters = async (req, res) => {
   }
 }
 
-exports.addBio = async(req,res) => {
-    try{
-        const id = req.params.id
-        const {updatedBio} = req.body
+exports.addBio = async (req, res) => {
+  try {
+    const id = req.params.id
+    const {updatedBio} = req.body
 
-        const data = await User.findByIdAndUpdate({_id: id}, {bio: updatedBio})
+    const data = await User.findByIdAndUpdate({_id: id}, {bio: updatedBio})
 
-        const updatedUser = await User.findById(id)
+    const updatedUser = await User.findById(id)
 
-        res.status(200).json(updatedUser)
-
-    }catch(error){
-        console.log(error)
-    }
+    res.status(200).json(updatedUser)
+  } catch (error) {
+    console.log(error)
+  }
 }
