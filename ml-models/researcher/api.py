@@ -1,20 +1,18 @@
 from flask import Flask
-import pickle
+from flask_cors import CORS
+from main import recommend_scheme
 
 app = Flask(__name__)
+CORS(app)
 
-model_path = 'recommend_researcher.pkl'
-with open(model_path, 'rb') as file:
-    pickled_model = pickle.load(file)
-
-@app.route("/")
+@app.route("/root")
 def hello():
     return "<p>Hello</p>"
 
-@app.route("/predict/<id>")
+@app.route("/predict/<int:id>", methods=['GET'])
 def prediction(id):
-    data = pickled_model.predict(id)
-    return str(data)
+    # print(recommend_scheme(id))
+    return recommend_scheme(id)
 
 if __name__ == '__main__':
     app.run(debug=True)

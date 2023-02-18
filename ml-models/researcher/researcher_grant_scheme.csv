@@ -1,0 +1,1001 @@
+scheme_id,research_area,eligible,grant_amt,duration,app_dead,no_app,no_app_fund
+1,Materials Science,Researchers from developing countries,100000-250000,6,10/15/2023,1327,140
+2,Chemical Engineering,PhD students and postdoctoral fellows,100000-250000,36,6/11/2023,1050,96
+3,Physics,PhD students and postdoctoral fellows,20000-50000,36,12/14/2023,170,57
+4,Physics,PhD students and postdoctoral fellows,5000-10000,6,1/19/2023,1215,102
+5,Electrical Engineering,PhD students and postdoctoral fellows,100000-500000,24,3/1/2023,1370,138
+6,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,24,10/7/2023,1337,142
+7,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,36,8/25/2023,1389,191
+8,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,12,2/10/2023,1651,23
+9,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,12,8/27/2023,1800,103
+10,Materials Science,PhD students and postdoctoral fellows,50000-100000,36,12/22/2023,558,29
+11,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,36,4/17/2023,1334,20
+12,Neuroscience,Early-career researchers with a PhD or equivalent degree,25000-50000,6,2/13/2023,1827,91
+13,Environmental Science,Researchers from developing countries,25000-50000,12,5/5/2023,72,123
+14,Physics,Researchers from developing countries,20000-50000,36,10/1/2023,952,35
+15,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,36,11/16/2023,1831,88
+16,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,24,5/25/2023,1995,83
+17,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,24,8/31/2023,1380,165
+18,Computer Science,PhD students and postdoctoral fellows,25000-50000,12,12/27/2023,1794,198
+19,Computer Science,Researchers from developing countries,5000-10000,6,2/5/2023,1436,95
+20,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,12,5/25/2023,1070,24
+21,Computer Science,Researchers from developing countries,5000-10000,36,4/22/2023,906,76
+22,Chemical Engineering,Researchers from developing countries,25000-50000,12,1/19/2023,653,168
+23,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,12,8/27/2023,748,63
+24,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,3/30/2023,1544,85
+25,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,6,11/21/2023,706,176
+26,Materials Science,PhD students and postdoctoral fellows,100000-500000,12,11/28/2023,1242,145
+27,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,36,1/21/2023,1984,167
+28,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,36,6/18/2023,251,27
+29,Physics,PhD students and postdoctoral fellows,5000-15000,12,3/18/2023,734,42
+30,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,10/8/2023,1766,30
+31,Medical Research,Researchers from developing countries,500000-1000000,36,9/21/2023,1434,122
+32,Medical Research,PhD students and postdoctoral fellows,5000-10000,6,10/25/2023,1814,37
+33,Computer Science,Early-career researchers with a PhD or equivalent degree,5000-15000,12,8/14/2023,321,20
+34,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,6/27/2023,573,82
+35,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,25000-50000,36,3/8/2023,966,26
+36,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,7/18/2023,534,11
+37,Physics,Early-career researchers with a PhD or equivalent degree,50000-100000,36,2/28/2023,666,27
+38,Environmental Science,Early-career researchers with a PhD or equivalent degree,5000-10000,6,11/6/2023,1896,152
+39,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,36,7/2/2023,995,147
+40,Materials Science,PhD students and postdoctoral fellows,20000-50000,36,8/21/2023,884,59
+41,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,6,12/9/2023,1504,179
+42,Computer Science,Researchers from developing countries,100000-250000,6,5/26/2023,1455,177
+43,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,12,5/15/2023,76,172
+44,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,36,12/18/2023,1350,50
+45,Environmental Science,Early-career researchers with a PhD or equivalent degree,100000-500000,6,8/23/2023,794,56
+46,Neuroscience,PhD students and postdoctoral fellows,25000-50000,12,10/28/2023,1791,78
+47,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,36,4/12/2023,876,71
+48,Environmental Science,Researchers from developing countries,100000-250000,36,12/3/2023,1018,169
+49,Medical Research,PhD students and postdoctoral fellows,500000-1000000,36,7/20/2023,1952,133
+50,Electrical Engineering,PhD students and postdoctoral fellows,500000-1000000,6,3/1/2023,1202,79
+51,Medical Research,Researchers from developing countries,100000-500000,6,7/27/2023,994,196
+52,Physics,Researchers from developing countries,50000-100000,6,11/8/2023,698,75
+53,Environmental Science,Early-career researchers with a PhD or equivalent degree,5000-10000,12,9/2/2023,286,22
+54,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,24,4/26/2023,938,157
+55,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,25000-50000,12,2/5/2023,693,154
+56,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,24,1/6/2023,1122,62
+57,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,6,8/18/2023,1852,100
+58,Physics,PhD students and postdoctoral fellows,100000-500000,6,6/19/2023,988,110
+59,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,2/17/2023,152,119
+60,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,12,2/28/2023,1815,58
+61,Medical Research,PhD students and postdoctoral fellows,50000-100000,36,5/30/2023,434,135
+62,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,36,1/29/2023,1804,75
+63,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,36,5/25/2023,71,73
+64,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,8/27/2023,1249,110
+65,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,9/18/2023,1600,158
+66,Environmental Science,PhD students and postdoctoral fellows,500000-1000000,6,12/30/2023,177,96
+67,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,6,1/12/2023,1467,170
+68,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,12,2/1/2023,973,54
+69,Computer Science,Researchers from developing countries,500000-1000000,12,10/21/2023,1573,186
+70,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,24,5/4/2023,691,75
+71,Medical Research,Researchers from developing countries,5000-10000,12,7/1/2023,722,17
+72,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,6,2/3/2023,1011,31
+73,Materials Science,Early-career researchers with a PhD or equivalent degree,20000-50000,6,3/10/2023,284,177
+74,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,100000-250000,12,8/10/2023,1178,148
+75,Neuroscience,PhD students and postdoctoral fellows,5000-15000,36,5/10/2023,809,96
+76,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,6,9/23/2023,1036,16
+77,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,24,7/12/2023,91,123
+78,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,24,10/29/2023,662,123
+79,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,24,10/8/2023,450,97
+80,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,6,1/10/2023,1469,35
+81,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,6,8/31/2023,852,64
+82,Materials Science,PhD students and postdoctoral fellows,5000-15000,24,2/7/2023,1103,76
+83,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,12,11/26/2023,659,57
+84,Electrical Engineering,Researchers from developing countries,20000-50000,24,7/20/2023,742,72
+85,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,12,8/1/2023,1931,16
+86,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,12,1/16/2023,1282,137
+87,Medical Research,Researchers from developing countries,25000-50000,12,2/12/2023,1354,157
+88,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,12,2/3/2023,1265,13
+89,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,12,10/24/2023,204,32
+90,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,1/6/2023,374,49
+91,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,6,5/7/2023,786,28
+92,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,36,4/20/2023,1559,73
+93,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,36,3/5/2023,1106,64
+94,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,500000-1000000,24,5/23/2023,301,19
+95,Physics,Researchers from developing countries,20000-50000,12,1/8/2023,83,31
+96,Neuroscience,Researchers from developing countries,5000-10000,24,9/13/2023,1382,56
+97,Materials Science,Early-career researchers with a PhD or equivalent degree,100000-500000,36,11/24/2023,1620,10
+98,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,12,12/4/2023,146,55
+99,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,24,8/13/2023,190,29
+100,Medical Research,Early-career researchers with a PhD or equivalent degree,100000-250000,12,7/15/2023,253,13
+101,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,24,9/20/2023,200,106
+102,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,24,10/29/2023,1976,6
+103,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,12,9/4/2023,654,141
+104,Environmental Science,Researchers from developing countries,50000-100000,6,7/31/2023,137,65
+105,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,24,5/19/2023,725,9
+106,Physics,Researchers from developing countries,50000-100000,36,1/27/2023,1806,174
+107,Medical Research,Early-career researchers with a PhD or equivalent degree,100000-500000,6,1/12/2023,729,163
+108,Medical Research,Early-career researchers with a PhD or equivalent degree,20000-50000,36,1/16/2023,1816,182
+109,Electrical Engineering,PhD students and postdoctoral fellows,100000-250000,12,10/15/2023,1872,22
+110,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,36,3/20/2023,944,58
+111,Electrical Engineering,Researchers from developing countries,5000-10000,24,2/27/2023,787,108
+112,Materials Science,Early-career researchers with a PhD or equivalent degree,25000-50000,6,1/31/2023,325,155
+113,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,9/15/2023,539,43
+114,Medical Research,Researchers from developing countries,100000-250000,6,5/17/2023,666,84
+115,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,24,10/8/2023,1276,91
+116,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,24,1/5/2023,700,183
+117,Computer Science,Researchers from developing countries,500000-1000000,6,10/21/2023,1148,75
+118,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,12,5/20/2023,573,191
+119,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,24,3/23/2023,1939,145
+120,Physics,PhD students and postdoctoral fellows,5000-15000,6,6/22/2023,115,199
+121,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,24,6/17/2023,122,9
+122,Materials Science,PhD students and postdoctoral fellows,100000-250000,36,11/23/2023,1026,112
+123,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,12,7/1/2023,817,79
+124,Physics,Early-career researchers with a PhD or equivalent degree,25000-50000,24,5/4/2023,262,166
+125,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,36,11/11/2023,144,26
+126,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,12,11/2/2023,1921,23
+127,Medical Research,Early-career researchers with a PhD or equivalent degree,5000-10000,6,2/3/2023,1478,44
+128,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,12,3/23/2023,559,84
+129,Environmental Science,PhD students and postdoctoral fellows,20000-50000,24,5/18/2023,1602,96
+130,Computer Science,PhD students and postdoctoral fellows,50000-100000,24,1/31/2023,424,6
+131,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,6,11/14/2023,1749,166
+132,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,36,10/11/2023,1064,18
+133,Chemical Engineering,Researchers from developing countries,100000-500000,24,6/11/2023,618,42
+134,Materials Science,PhD students and postdoctoral fellows,500000-1000000,36,9/24/2023,320,64
+135,Materials Science,Early-career researchers with a PhD or equivalent degree,100000-250000,36,1/21/2023,1398,176
+136,Computer Science,PhD students and postdoctoral fellows,100000-250000,36,8/22/2023,1648,192
+137,Electrical Engineering,Researchers from developing countries,5000-10000,24,2/28/2023,178,123
+138,Electrical Engineering,Researchers from developing countries,100000-250000,36,1/30/2023,306,164
+139,Neuroscience,Early-career researchers with a PhD or equivalent degree,50000-100000,36,8/17/2023,761,79
+140,Computer Science,Early-career researchers with a PhD or equivalent degree,100000-500000,24,11/28/2023,430,170
+141,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,100000-500000,6,9/29/2023,1333,145
+142,Physics,Researchers from developing countries,50000-100000,24,9/23/2023,1188,160
+143,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,6,5/25/2023,1248,50
+144,Electrical Engineering,PhD students and postdoctoral fellows,5000-15000,12,3/28/2023,733,161
+145,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,6,9/24/2023,1921,62
+146,Medical Research,Researchers from developing countries,50000-100000,36,12/9/2023,1882,75
+147,Environmental Science,Researchers from developing countries,50000-100000,6,2/23/2023,143,141
+148,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,36,9/10/2023,600,37
+149,Electrical Engineering,PhD students and postdoctoral fellows,500000-1000000,36,4/22/2023,1259,179
+150,Computer Science,PhD students and postdoctoral fellows,5000-15000,6,1/13/2023,243,157
+151,Environmental Science,Early-career researchers with a PhD or equivalent degree,100000-500000,6,4/1/2023,685,126
+152,Computer Science,Early-career researchers with a PhD or equivalent degree,50000-100000,12,1/18/2023,1724,65
+153,Environmental Science,Early-career researchers with a PhD or equivalent degree,5000-15000,36,4/29/2023,1246,91
+154,Physics,Researchers from developing countries,100000-500000,24,4/9/2023,815,154
+155,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,24,4/26/2023,697,174
+156,Computer Science,PhD students and postdoctoral fellows,100000-250000,24,2/2/2023,259,193
+157,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,36,4/7/2023,289,57
+158,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,12,1/29/2023,1062,58
+159,Materials Science,Early-career researchers with a PhD or equivalent degree,100000-500000,24,9/6/2023,295,95
+160,Electrical Engineering,Researchers from developing countries,5000-10000,36,10/28/2023,142,93
+161,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,6,3/29/2023,1840,165
+162,Materials Science,Researchers from developing countries,100000-250000,36,9/20/2023,1674,115
+163,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,36,11/29/2023,1731,171
+164,Neuroscience,Early-career researchers with a PhD or equivalent degree,100000-250000,12,3/22/2023,1701,57
+165,Materials Science,Early-career researchers with a PhD or equivalent degree,100000-500000,12,8/24/2023,631,53
+166,Physics,Early-career researchers with a PhD or equivalent degree,500000-1000000,6,6/27/2023,613,134
+167,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,12,7/19/2023,478,163
+168,Medical Research,Early-career researchers with a PhD or equivalent degree,50000-100000,36,8/19/2023,553,39
+169,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,24,5/7/2023,1494,78
+170,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,12,1/31/2023,1657,183
+171,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,6,8/7/2023,1399,86
+172,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,6,4/18/2023,1021,111
+173,Environmental Science,Researchers from developing countries,5000-10000,12,5/31/2023,523,19
+174,Physics,Early-career researchers with a PhD or equivalent degree,100000-500000,36,2/27/2023,1129,197
+175,Medical Research,Early-career researchers with a PhD or equivalent degree,20000-50000,12,11/12/2023,1754,43
+176,Environmental Science,PhD students and postdoctoral fellows,5000-15000,12,9/18/2023,438,111
+177,Materials Science,Researchers from developing countries,20000-50000,24,9/3/2023,536,195
+178,Materials Science,Researchers from developing countries,100000-250000,24,11/19/2023,231,27
+179,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,25000-50000,24,4/12/2023,436,144
+180,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,12,1/18/2023,437,159
+181,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,5000-10000,36,2/22/2023,948,146
+182,Medical Research,PhD students and postdoctoral fellows,100000-500000,24,8/18/2023,1821,85
+183,Neuroscience,PhD students and postdoctoral fellows,5000-15000,24,11/26/2023,1878,171
+184,Computer Science,Researchers from developing countries,100000-250000,24,3/20/2023,1753,8
+185,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,36,6/18/2023,238,125
+186,Physics,PhD students and postdoctoral fellows,25000-50000,24,1/14/2023,1606,9
+187,Neuroscience,PhD students and postdoctoral fellows,50000-100000,12,6/23/2023,280,7
+188,Medical Research,Researchers from developing countries,25000-50000,6,11/14/2023,473,155
+189,Materials Science,Early-career researchers with a PhD or equivalent degree,50000-100000,24,9/27/2023,1699,35
+190,Materials Science,Early-career researchers with a PhD or equivalent degree,100000-250000,24,5/5/2023,945,82
+191,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,12/12/2023,860,116
+192,Chemical Engineering,Researchers from developing countries,5000-15000,12,10/19/2023,952,109
+193,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,36,6/7/2023,887,119
+194,Chemical Engineering,PhD students and postdoctoral fellows,50000-100000,12,5/9/2023,941,175
+195,Physics,Early-career researchers with a PhD or equivalent degree,20000-50000,6,9/27/2023,1499,108
+196,Environmental Science,PhD students and postdoctoral fellows,50000-100000,36,5/19/2023,367,140
+197,Medical Research,Researchers from developing countries,5000-15000,24,6/4/2023,211,121
+198,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,11/3/2023,151,78
+199,Environmental Science,Early-career researchers with a PhD or equivalent degree,50000-100000,12,8/22/2023,1388,111
+200,Medical Research,Early-career researchers with a PhD or equivalent degree,50000-100000,6,5/5/2023,1660,167
+201,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,36,2/17/2023,1897,199
+202,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,12,2/11/2023,1889,164
+203,Chemical Engineering,Researchers from developing countries,100000-500000,24,9/18/2023,1660,15
+204,Materials Science,Early-career researchers with a PhD or equivalent degree,5000-15000,36,11/18/2023,518,121
+205,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,24,12/8/2023,1951,47
+206,Environmental Science,Early-career researchers with a PhD or equivalent degree,100000-250000,36,2/17/2023,1555,16
+207,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,36,11/22/2023,1369,115
+208,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,6,9/1/2023,458,85
+209,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,36,12/15/2023,725,197
+210,Neuroscience,Early-career researchers with a PhD or equivalent degree,100000-250000,24,6/6/2023,464,66
+211,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,12,11/15/2023,1870,25
+212,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,100000-500000,24,2/7/2023,1560,102
+213,Computer Science,PhD students and postdoctoral fellows,50000-100000,6,8/17/2023,808,90
+214,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,12,12/31/2023,1010,60
+215,Medical Research,Early-career researchers with a PhD or equivalent degree,50000-100000,36,11/28/2023,877,163
+216,Materials Science,Early-career researchers with a PhD or equivalent degree,100000-500000,24,7/14/2023,165,34
+217,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,12,2/7/2023,1710,44
+218,Electrical Engineering,Researchers from developing countries,100000-250000,36,3/17/2023,1540,189
+219,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,5000-15000,6,8/18/2023,837,157
+220,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,24,7/7/2023,980,161
+221,Materials Science,Researchers from developing countries,100000-500000,36,8/12/2023,994,52
+222,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,6,1/26/2023,1178,156
+223,Physics,Early-career researchers with a PhD or equivalent degree,50000-100000,6,3/28/2023,969,142
+224,Physics,PhD students and postdoctoral fellows,100000-250000,36,6/14/2023,762,192
+225,Computer Science,PhD students and postdoctoral fellows,100000-500000,6,3/20/2023,1559,39
+226,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,3/6/2023,902,89
+227,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,36,6/11/2023,1280,62
+228,Physics,Early-career researchers with a PhD or equivalent degree,500000-1000000,6,11/7/2023,1521,125
+229,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,1/31/2023,1222,15
+230,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,6,10/23/2023,1184,89
+231,Materials Science,Researchers from developing countries,500000-1000000,12,7/19/2023,593,97
+232,Medical Research,Early-career researchers with a PhD or equivalent degree,5000-15000,36,11/8/2023,663,143
+233,Materials Science,Researchers from developing countries,100000-500000,36,2/14/2023,1477,90
+234,Chemical Engineering,PhD students and postdoctoral fellows,100000-250000,6,10/13/2023,1825,156
+235,Medical Research,Researchers from developing countries,5000-10000,6,10/10/2023,1604,110
+236,Materials Science,Researchers from developing countries,100000-500000,6,6/7/2023,1054,55
+237,Environmental Science,PhD students and postdoctoral fellows,500000-1000000,24,4/23/2023,181,154
+238,Electrical Engineering,PhD students and postdoctoral fellows,500000-1000000,36,9/20/2023,586,117
+239,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,20000-50000,24,2/16/2023,1212,133
+240,Computer Science,Early-career researchers with a PhD or equivalent degree,500000-1000000,24,11/22/2023,602,168
+241,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,5000-10000,36,5/10/2023,465,141
+242,Computer Science,Early-career researchers with a PhD or equivalent degree,50000-100000,6,10/5/2023,1487,111
+243,Neuroscience,PhD students and postdoctoral fellows,20000-50000,6,4/24/2023,908,78
+244,Computer Science,PhD students and postdoctoral fellows,20000-50000,36,9/15/2023,1192,139
+245,Computer Science,Early-career researchers with a PhD or equivalent degree,500000-1000000,24,2/7/2023,1899,88
+246,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,1/16/2023,257,131
+247,Materials Science,Researchers from developing countries,5000-10000,6,10/10/2023,326,45
+248,Computer Science,PhD students and postdoctoral fellows,100000-250000,6,3/10/2023,1791,196
+249,Physics,Researchers from developing countries,500000-1000000,36,10/6/2023,757,29
+250,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,6,3/10/2023,458,188
+251,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,12,3/28/2023,395,159
+252,Physics,Early-career researchers with a PhD or equivalent degree,5000-15000,12,1/26/2023,190,10
+253,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,24,11/12/2023,731,170
+254,Neuroscience,PhD students and postdoctoral fellows,500000-1000000,6,8/29/2023,1316,105
+255,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,24,7/9/2023,1164,154
+256,Materials Science,Researchers from developing countries,5000-10000,36,8/22/2023,1336,174
+257,Materials Science,PhD students and postdoctoral fellows,5000-10000,6,6/18/2023,1995,131
+258,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,36,11/14/2023,1357,188
+259,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,6,3/5/2023,1475,150
+260,Environmental Science,Researchers from developing countries,50000-100000,6,7/18/2023,937,101
+261,Medical Research,PhD students and postdoctoral fellows,25000-50000,24,3/4/2023,739,71
+262,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,12,9/9/2023,79,168
+263,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,36,6/19/2023,57,14
+264,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,12,12/25/2023,674,91
+265,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,24,11/9/2023,1786,164
+266,Environmental Science,Early-career researchers with a PhD or equivalent degree,100000-250000,36,6/13/2023,269,5
+267,Materials Science,PhD students and postdoctoral fellows,20000-50000,12,7/1/2023,1634,131
+268,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,24,5/15/2023,421,145
+269,Materials Science,Early-career researchers with a PhD or equivalent degree,20000-50000,6,6/22/2023,1635,147
+270,Computer Science,Researchers from developing countries,5000-15000,24,8/11/2023,235,182
+271,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,36,9/2/2023,597,26
+272,Chemical Engineering,PhD students and postdoctoral fellows,100000-500000,36,1/31/2023,1567,21
+273,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,12,2/19/2023,1619,71
+274,Materials Science,Early-career researchers with a PhD or equivalent degree,100000-250000,12,11/18/2023,319,87
+275,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,12,2/25/2023,428,172
+276,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,20000-50000,36,1/20/2023,1213,111
+277,Electrical Engineering,Researchers from developing countries,25000-50000,12,9/1/2023,558,5
+278,Computer Science,PhD students and postdoctoral fellows,5000-10000,12,4/24/2023,1868,81
+279,Electrical Engineering,Researchers from developing countries,20000-50000,12,7/13/2023,701,164
+280,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,12,8/16/2023,944,132
+281,Neuroscience,Early-career researchers with a PhD or equivalent degree,5000-15000,12,9/8/2023,56,20
+282,Electrical Engineering,Researchers from developing countries,20000-50000,36,1/5/2023,291,113
+283,Electrical Engineering,Researchers from developing countries,25000-50000,6,2/19/2023,333,82
+284,Neuroscience,Early-career researchers with a PhD or equivalent degree,5000-10000,6,7/28/2023,300,199
+285,Chemical Engineering,Researchers from developing countries,50000-100000,36,8/18/2023,1092,104
+286,Environmental Science,PhD students and postdoctoral fellows,5000-10000,6,2/6/2023,126,66
+287,Medical Research,PhD students and postdoctoral fellows,20000-50000,36,1/25/2023,1385,191
+288,Medical Research,Early-career researchers with a PhD or equivalent degree,20000-50000,12,2/12/2023,1864,187
+289,Computer Science,Researchers from developing countries,500000-1000000,24,5/28/2023,288,182
+290,Neuroscience,Researchers from developing countries,500000-1000000,12,10/26/2023,373,182
+291,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,6/7/2023,140,167
+292,Environmental Science,Early-career researchers with a PhD or equivalent degree,5000-10000,6,1/5/2023,1634,151
+293,Neuroscience,PhD students and postdoctoral fellows,50000-100000,6,8/20/2023,607,162
+294,Chemical Engineering,PhD students and postdoctoral fellows,20000-50000,24,5/16/2023,321,107
+295,Neuroscience,Researchers from developing countries,100000-500000,12,5/11/2023,1778,76
+296,Computer Science,Early-career researchers with a PhD or equivalent degree,25000-50000,24,3/1/2023,1180,117
+297,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,12,3/22/2023,462,126
+298,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,12,5/27/2023,1895,37
+299,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,12,4/24/2023,945,183
+300,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,24,9/7/2023,373,137
+301,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,36,11/3/2023,1772,67
+302,Materials Science,Early-career researchers with a PhD or equivalent degree,5000-15000,36,8/18/2023,899,66
+303,Electrical Engineering,Researchers from developing countries,50000-100000,12,8/7/2023,1074,139
+304,Environmental Science,Researchers from developing countries,20000-50000,6,12/1/2023,1847,178
+305,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,12,3/14/2023,1124,198
+306,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,100000-250000,36,11/17/2023,1339,67
+307,Computer Science,PhD students and postdoctoral fellows,5000-10000,6,2/23/2023,1485,179
+308,Neuroscience,PhD students and postdoctoral fellows,100000-250000,24,5/29/2023,285,54
+309,Physics,PhD students and postdoctoral fellows,20000-50000,6,4/8/2023,579,180
+310,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,5000-15000,6,9/23/2023,1222,132
+311,Environmental Science,PhD students and postdoctoral fellows,5000-10000,36,3/18/2023,555,133
+312,Computer Science,Researchers from developing countries,20000-50000,6,7/15/2023,149,168
+313,Medical Research,Researchers from developing countries,20000-50000,12,3/13/2023,1464,52
+314,Medical Research,Early-career researchers with a PhD or equivalent degree,25000-50000,12,12/30/2023,575,187
+315,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,24,6/14/2023,1727,15
+316,Physics,Researchers from developing countries,5000-15000,36,10/1/2023,1308,28
+317,Medical Research,Early-career researchers with a PhD or equivalent degree,25000-50000,6,1/3/2023,1078,35
+318,Environmental Science,Researchers from developing countries,25000-50000,36,3/9/2023,1195,150
+319,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,10/18/2023,362,157
+320,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,36,2/28/2023,1883,40
+321,Environmental Science,PhD students and postdoctoral fellows,100000-500000,12,7/3/2023,202,84
+322,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,24,5/22/2023,756,53
+323,Materials Science,Researchers from developing countries,5000-10000,6,1/31/2023,1112,52
+324,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,6,10/18/2023,93,145
+325,Physics,Researchers from developing countries,100000-500000,12,10/15/2023,1932,32
+326,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,24,11/3/2023,135,134
+327,Electrical Engineering,Researchers from developing countries,5000-15000,6,5/30/2023,148,22
+328,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,6,4/21/2023,1087,71
+329,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,36,10/3/2023,1273,137
+330,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,12,5/4/2023,735,173
+331,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,12,11/1/2023,970,156
+332,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,6,4/25/2023,1978,44
+333,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,100000-500000,6,4/2/2023,1955,50
+334,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,6,5/2/2023,1101,128
+335,Environmental Science,Early-career researchers with a PhD or equivalent degree,50000-100000,12,10/29/2023,270,95
+336,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,100000-500000,12,9/22/2023,1149,152
+337,Physics,Researchers from developing countries,500000-1000000,24,3/7/2023,652,85
+338,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,6,6/25/2023,1462,150
+339,Neuroscience,Researchers from developing countries,50000-100000,36,10/14/2023,1901,151
+340,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,36,10/1/2023,852,47
+341,Medical Research,Researchers from developing countries,50000-100000,12,12/31/2023,1719,51
+342,Neuroscience,Researchers from developing countries,100000-500000,12,9/12/2023,1541,198
+343,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,50000-100000,24,5/27/2023,1809,155
+344,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,36,12/31/2023,1899,10
+345,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,24,11/4/2023,755,90
+346,Physics,PhD students and postdoctoral fellows,500000-1000000,36,7/4/2023,986,54
+347,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,36,5/2/2023,1219,140
+348,Chemical Engineering,Researchers from developing countries,500000-1000000,24,6/2/2023,855,163
+349,Chemical Engineering,Researchers from developing countries,5000-10000,24,1/13/2023,623,91
+350,Environmental Science,Early-career researchers with a PhD or equivalent degree,20000-50000,36,7/4/2023,1495,46
+351,Physics,Researchers from developing countries,25000-50000,12,9/1/2023,1995,127
+352,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,36,4/24/2023,1093,98
+353,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,12,12/5/2023,167,185
+354,Environmental Science,Early-career researchers with a PhD or equivalent degree,5000-10000,36,4/1/2023,265,146
+355,Materials Science,PhD students and postdoctoral fellows,50000-100000,12,7/14/2023,1542,11
+356,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,20000-50000,6,8/7/2023,664,188
+357,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,36,12/3/2023,1700,77
+358,Environmental Science,Researchers from developing countries,50000-100000,12,6/4/2023,756,46
+359,Neuroscience,Early-career researchers with a PhD or equivalent degree,50000-100000,6,2/10/2023,1678,47
+360,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,36,9/9/2023,1403,184
+361,Materials Science,Researchers from developing countries,500000-1000000,12,12/4/2023,1639,161
+362,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,6,10/1/2023,454,172
+363,Electrical Engineering,Researchers from developing countries,100000-500000,6,3/31/2023,1239,184
+364,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,6,6/18/2023,1818,105
+365,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,12,2/24/2023,1124,52
+366,Materials Science,Early-career researchers with a PhD or equivalent degree,5000-15000,6,8/4/2023,691,197
+367,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,12,3/7/2023,1380,99
+368,Materials Science,Early-career researchers with a PhD or equivalent degree,50000-100000,12,6/22/2023,1486,165
+369,Electrical Engineering,Researchers from developing countries,20000-50000,36,9/22/2023,1144,144
+370,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,6,10/27/2023,830,45
+371,Environmental Science,Early-career researchers with a PhD or equivalent degree,5000-10000,12,12/2/2023,1955,195
+372,Chemical Engineering,Researchers from developing countries,50000-100000,36,2/17/2023,1210,121
+373,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,12,10/17/2023,687,132
+374,Computer Science,PhD students and postdoctoral fellows,100000-250000,6,8/13/2023,312,58
+375,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,6,11/30/2023,919,127
+376,Medical Research,PhD students and postdoctoral fellows,5000-10000,24,7/25/2023,1203,72
+377,Chemical Engineering,Researchers from developing countries,20000-50000,6,12/18/2023,1057,18
+378,Environmental Science,Early-career researchers with a PhD or equivalent degree,20000-50000,24,12/17/2023,1227,86
+379,Materials Science,PhD students and postdoctoral fellows,5000-15000,36,9/18/2023,172,77
+380,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,24,4/5/2023,1348,129
+381,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,24,11/11/2023,647,99
+382,Environmental Science,Researchers from developing countries,100000-250000,6,11/14/2023,928,181
+383,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,24,6/18/2023,931,37
+384,Environmental Science,Researchers from developing countries,500000-1000000,12,3/1/2023,1936,149
+385,Neuroscience,PhD students and postdoctoral fellows,500000-1000000,36,3/23/2023,519,112
+386,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,50000-100000,12,7/30/2023,729,89
+387,Environmental Science,Early-career researchers with a PhD or equivalent degree,50000-100000,24,10/1/2023,1721,87
+388,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,12,4/19/2023,583,177
+389,Environmental Science,Early-career researchers with a PhD or equivalent degree,5000-15000,24,6/20/2023,220,145
+390,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,36,9/13/2023,1339,150
+391,Environmental Science,PhD students and postdoctoral fellows,100000-250000,24,4/3/2023,1160,174
+392,Environmental Science,PhD students and postdoctoral fellows,100000-250000,36,6/25/2023,873,141
+393,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,1/8/2023,64,196
+394,Chemical Engineering,PhD students and postdoctoral fellows,5000-15000,36,9/16/2023,1624,25
+395,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,12,3/7/2023,1802,41
+396,Computer Science,Researchers from developing countries,100000-250000,24,3/15/2023,1440,81
+397,Chemical Engineering,Researchers from developing countries,50000-100000,6,9/12/2023,491,126
+398,Physics,PhD students and postdoctoral fellows,25000-50000,36,7/16/2023,1886,63
+399,Neuroscience,PhD students and postdoctoral fellows,500000-1000000,12,4/17/2023,842,126
+400,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,20000-50000,12,10/21/2023,1845,111
+401,Electrical Engineering,PhD students and postdoctoral fellows,5000-15000,24,6/15/2023,1769,121
+402,Materials Science,Early-career researchers with a PhD or equivalent degree,5000-10000,12,12/15/2023,724,40
+403,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,24,11/7/2023,583,18
+404,Neuroscience,Early-career researchers with a PhD or equivalent degree,5000-10000,24,1/10/2023,776,115
+405,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,24,1/14/2023,377,165
+406,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,36,1/18/2023,359,105
+407,Chemical Engineering,PhD students and postdoctoral fellows,20000-50000,36,1/9/2023,404,52
+408,Chemical Engineering,Researchers from developing countries,50000-100000,6,4/7/2023,774,179
+409,Electrical Engineering,Researchers from developing countries,500000-1000000,12,10/24/2023,686,98
+410,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,6,12/8/2023,660,167
+411,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,12,3/6/2023,298,36
+412,Medical Research,PhD students and postdoctoral fellows,20000-50000,36,5/29/2023,1197,46
+413,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,6,6/16/2023,205,35
+414,Physics,Researchers from developing countries,50000-100000,24,7/6/2023,1817,71
+415,Physics,PhD students and postdoctoral fellows,500000-1000000,12,4/1/2023,1898,40
+416,Computer Science,Researchers from developing countries,100000-500000,24,5/2/2023,1019,59
+417,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,6,10/2/2023,111,173
+418,Medical Research,PhD students and postdoctoral fellows,20000-50000,6,8/29/2023,1071,119
+419,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,12,12/7/2023,680,188
+420,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,36,11/2/2023,1111,188
+421,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,100000-250000,6,12/25/2023,662,102
+422,Chemical Engineering,PhD students and postdoctoral fellows,5000-15000,12,7/6/2023,133,69
+423,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,24,2/20/2023,472,140
+424,Neuroscience,Early-career researchers with a PhD or equivalent degree,100000-500000,6,9/28/2023,176,144
+425,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,24,8/24/2023,1050,82
+426,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,6,7/3/2023,643,11
+427,Neuroscience,PhD students and postdoctoral fellows,100000-250000,12,9/6/2023,1331,156
+428,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,6,6/9/2023,198,128
+429,Computer Science,PhD students and postdoctoral fellows,100000-500000,6,9/26/2023,1854,116
+430,Materials Science,Researchers from developing countries,20000-50000,12,9/24/2023,1529,23
+431,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,6,11/23/2023,1435,155
+432,Neuroscience,PhD students and postdoctoral fellows,500000-1000000,12,3/15/2023,1098,11
+433,Materials Science,Early-career researchers with a PhD or equivalent degree,100000-500000,6,1/1/2023,308,156
+434,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,6,1/29/2023,1343,159
+435,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,36,3/3/2023,1472,123
+436,Materials Science,Researchers from developing countries,20000-50000,24,3/4/2023,1989,128
+437,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,24,9/12/2023,630,154
+438,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,36,1/28/2023,739,161
+439,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,24,3/30/2023,1383,25
+440,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,6,9/24/2023,99,5
+441,Neuroscience,Early-career researchers with a PhD or equivalent degree,20000-50000,24,8/1/2023,296,111
+442,Chemical Engineering,PhD students and postdoctoral fellows,25000-50000,24,9/10/2023,1045,148
+443,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,12,3/13/2023,524,190
+444,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,5000-10000,36,8/5/2023,681,185
+445,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,12,11/14/2023,1407,123
+446,Computer Science,Early-career researchers with a PhD or equivalent degree,100000-250000,12,11/17/2023,1371,50
+447,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,36,8/20/2023,1252,175
+448,Neuroscience,Researchers from developing countries,100000-500000,36,9/28/2023,1332,189
+449,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,5000-10000,12,9/22/2023,1269,107
+450,Physics,Early-career researchers with a PhD or equivalent degree,100000-500000,12,5/11/2023,1865,143
+451,Electrical Engineering,PhD students and postdoctoral fellows,5000-15000,12,8/7/2023,1264,83
+452,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,36,9/14/2023,910,191
+453,Neuroscience,PhD students and postdoctoral fellows,100000-250000,24,5/20/2023,1711,170
+454,Computer Science,Early-career researchers with a PhD or equivalent degree,20000-50000,36,12/20/2023,251,126
+455,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,6,8/23/2023,248,94
+456,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,12,10/24/2023,1870,63
+457,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,6,5/4/2023,1065,96
+458,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,24,2/1/2023,713,158
+459,Computer Science,Early-career researchers with a PhD or equivalent degree,100000-250000,36,5/4/2023,1044,89
+460,Materials Science,PhD students and postdoctoral fellows,500000-1000000,36,6/9/2023,670,99
+461,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,36,1/12/2023,1784,111
+462,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,24,1/27/2023,185,118
+463,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,11/16/2023,305,148
+464,Materials Science,Researchers from developing countries,100000-250000,36,5/21/2023,728,162
+465,Chemical Engineering,Researchers from developing countries,100000-500000,36,8/31/2023,1193,113
+466,Neuroscience,PhD students and postdoctoral fellows,25000-50000,12,12/23/2023,437,173
+467,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,36,9/25/2023,634,51
+468,Computer Science,PhD students and postdoctoral fellows,50000-100000,6,10/25/2023,1822,154
+469,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,12,1/9/2023,1983,122
+470,Materials Science,Researchers from developing countries,25000-50000,36,3/20/2023,486,104
+471,Computer Science,Researchers from developing countries,100000-500000,24,7/18/2023,878,50
+472,Neuroscience,Researchers from developing countries,25000-50000,36,10/28/2023,913,81
+473,Chemical Engineering,PhD students and postdoctoral fellows,100000-500000,12,10/19/2023,509,75
+474,Chemical Engineering,Researchers from developing countries,5000-10000,24,7/1/2023,225,58
+475,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,12/18/2023,149,154
+476,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,12/10/2023,1651,31
+477,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,36,8/30/2023,861,150
+478,Neuroscience,PhD students and postdoctoral fellows,5000-10000,36,7/17/2023,1054,103
+479,Computer Science,Researchers from developing countries,500000-1000000,12,11/3/2023,350,128
+480,Physics,Early-career researchers with a PhD or equivalent degree,100000-500000,36,1/1/2023,1545,32
+481,Environmental Science,Researchers from developing countries,50000-100000,24,8/22/2023,1195,112
+482,Physics,PhD students and postdoctoral fellows,100000-500000,24,5/10/2023,1920,103
+483,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,36,6/13/2023,575,30
+484,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,100000-250000,12,7/31/2023,173,180
+485,Neuroscience,Early-career researchers with a PhD or equivalent degree,100000-250000,12,12/14/2023,1863,185
+486,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,12,4/14/2023,1151,121
+487,Physics,Early-career researchers with a PhD or equivalent degree,5000-10000,6,2/8/2023,285,61
+488,Electrical Engineering,Researchers from developing countries,5000-10000,6,6/20/2023,1424,98
+489,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,24,7/10/2023,1603,84
+490,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,36,10/18/2023,959,53
+491,Environmental Science,PhD students and postdoctoral fellows,100000-500000,36,3/24/2023,1607,26
+492,Materials Science,PhD students and postdoctoral fellows,100000-500000,24,12/20/2023,880,135
+493,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,36,4/16/2023,1571,34
+494,Materials Science,PhD students and postdoctoral fellows,5000-10000,12,7/18/2023,648,181
+495,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,36,4/17/2023,695,51
+496,Electrical Engineering,Researchers from developing countries,25000-50000,36,1/17/2023,1070,190
+497,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,5000-10000,24,4/24/2023,923,170
+498,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,24,1/29/2023,1376,31
+499,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,36,10/25/2023,802,130
+500,Materials Science,Early-career researchers with a PhD or equivalent degree,5000-10000,12,5/29/2023,1021,128
+501,Materials Science,Early-career researchers with a PhD or equivalent degree,20000-50000,6,7/2/2023,266,121
+502,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,36,6/11/2023,984,111
+503,Physics,Researchers from developing countries,50000-100000,6,1/12/2023,1795,199
+504,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,36,11/1/2023,1164,173
+505,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,12,4/1/2023,1085,7
+506,Neuroscience,Early-career researchers with a PhD or equivalent degree,50000-100000,24,8/4/2023,1136,54
+507,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,36,12/24/2023,718,106
+508,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,12,9/19/2023,50,87
+509,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,24,3/28/2023,423,93
+510,Materials Science,Early-career researchers with a PhD or equivalent degree,50000-100000,36,7/24/2023,628,77
+511,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,24,1/21/2023,1577,86
+512,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,12,3/28/2023,696,86
+513,Physics,Early-career researchers with a PhD or equivalent degree,500000-1000000,6,1/7/2023,1940,67
+514,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,2/18/2023,1326,96
+515,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,11/10/2023,602,140
+516,Physics,Researchers from developing countries,25000-50000,12,10/29/2023,236,85
+517,Computer Science,Researchers from developing countries,20000-50000,36,6/16/2023,1095,118
+518,Computer Science,Researchers from developing countries,500000-1000000,12,5/23/2023,1866,127
+519,Physics,Early-career researchers with a PhD or equivalent degree,100000-500000,6,11/16/2023,1347,34
+520,Electrical Engineering,Researchers from developing countries,20000-50000,12,5/3/2023,1062,188
+521,Medical Research,PhD students and postdoctoral fellows,100000-250000,36,6/14/2023,604,141
+522,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,6,5/6/2023,82,108
+523,Electrical Engineering,Researchers from developing countries,50000-100000,12,3/7/2023,572,42
+524,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,12,3/19/2023,1637,43
+525,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,5/15/2023,1277,48
+526,Physics,Early-career researchers with a PhD or equivalent degree,500000-1000000,36,1/20/2023,1365,40
+527,Computer Science,PhD students and postdoctoral fellows,5000-15000,24,3/7/2023,168,188
+528,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,36,6/20/2023,710,148
+529,Physics,PhD students and postdoctoral fellows,100000-500000,36,12/10/2023,1442,9
+530,Medical Research,Researchers from developing countries,50000-100000,36,10/23/2023,1190,38
+531,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,36,12/8/2023,1822,43
+532,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,7/22/2023,1336,33
+533,Medical Research,Researchers from developing countries,500000-1000000,36,7/4/2023,1757,175
+534,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,24,11/3/2023,1453,130
+535,Physics,Early-career researchers with a PhD or equivalent degree,25000-50000,12,5/23/2023,1841,26
+536,Materials Science,PhD students and postdoctoral fellows,5000-10000,24,11/5/2023,1245,124
+537,Physics,Researchers from developing countries,500000-1000000,6,10/8/2023,1889,48
+538,Neuroscience,PhD students and postdoctoral fellows,100000-500000,12,11/24/2023,1032,80
+539,Computer Science,Early-career researchers with a PhD or equivalent degree,50000-100000,6,4/17/2023,1881,52
+540,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,24,2/26/2023,769,47
+541,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,24,4/15/2023,1501,34
+542,Neuroscience,Early-career researchers with a PhD or equivalent degree,20000-50000,24,2/22/2023,1524,13
+543,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,36,12/14/2023,618,120
+544,Materials Science,PhD students and postdoctoral fellows,5000-10000,6,7/12/2023,576,47
+545,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,50000-100000,36,7/18/2023,1294,109
+546,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,12,1/5/2023,1378,40
+547,Chemical Engineering,PhD students and postdoctoral fellows,100000-500000,24,9/8/2023,1380,142
+548,Electrical Engineering,PhD students and postdoctoral fellows,500000-1000000,36,6/10/2023,891,24
+549,Computer Science,Researchers from developing countries,5000-10000,12,2/28/2023,1478,58
+550,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,36,3/19/2023,751,163
+551,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,36,2/26/2023,1864,138
+552,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,6,4/14/2023,1357,81
+553,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,5000-10000,24,9/13/2023,1937,155
+554,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,50000-100000,36,12/15/2023,1526,173
+555,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,6,5/1/2023,799,19
+556,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,24,7/31/2023,982,188
+557,Materials Science,Researchers from developing countries,20000-50000,36,8/16/2023,367,151
+558,Materials Science,Early-career researchers with a PhD or equivalent degree,5000-15000,36,10/22/2023,1172,62
+559,Physics,PhD students and postdoctoral fellows,5000-15000,36,3/29/2023,428,179
+560,Medical Research,Early-career researchers with a PhD or equivalent degree,5000-10000,24,6/9/2023,595,114
+561,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,25000-50000,12,12/31/2023,1094,18
+562,Physics,Researchers from developing countries,20000-50000,36,1/6/2023,643,190
+563,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,36,12/18/2023,1623,46
+564,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,36,6/18/2023,1688,195
+565,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,12,12/30/2023,1182,156
+566,Chemical Engineering,Researchers from developing countries,500000-1000000,24,9/1/2023,1213,99
+567,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,24,2/5/2023,1139,152
+568,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,12,3/13/2023,224,80
+569,Chemical Engineering,Researchers from developing countries,50000-100000,6,11/19/2023,1790,175
+570,Environmental Science,Researchers from developing countries,5000-10000,12,3/16/2023,1922,27
+571,Neuroscience,Early-career researchers with a PhD or equivalent degree,50000-100000,12,1/30/2023,680,52
+572,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,6,1/3/2023,668,165
+573,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,6,5/2/2023,1755,179
+574,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,1/29/2023,474,28
+575,Neuroscience,PhD students and postdoctoral fellows,500000-1000000,12,5/21/2023,1905,67
+576,Neuroscience,Researchers from developing countries,5000-10000,6,4/27/2023,788,161
+577,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,6,4/16/2023,1358,59
+578,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,36,6/20/2023,1645,156
+579,Electrical Engineering,PhD students and postdoctoral fellows,5000-10000,12,2/26/2023,1334,24
+580,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,6,10/31/2023,1122,100
+581,Medical Research,Early-career researchers with a PhD or equivalent degree,100000-500000,24,2/23/2023,198,137
+582,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,24,7/12/2023,169,171
+583,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,12,12/25/2023,1349,166
+584,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,36,7/19/2023,1417,70
+585,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,36,1/9/2023,237,88
+586,Neuroscience,PhD students and postdoctoral fellows,100000-250000,6,3/16/2023,1363,79
+587,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,24,6/7/2023,1586,73
+588,Computer Science,Researchers from developing countries,20000-50000,36,1/7/2023,1930,18
+589,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,12,9/2/2023,1943,97
+590,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,36,4/14/2023,557,94
+591,Electrical Engineering,PhD students and postdoctoral fellows,5000-10000,24,1/21/2023,1222,69
+592,Neuroscience,Researchers from developing countries,5000-10000,24,6/16/2023,161,101
+593,Computer Science,PhD students and postdoctoral fellows,25000-50000,12,9/30/2023,496,41
+594,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,8/20/2023,390,183
+595,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,24,12/1/2023,658,58
+596,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,36,9/21/2023,1834,73
+597,Electrical Engineering,PhD students and postdoctoral fellows,50000-100000,6,12/12/2023,289,153
+598,Neuroscience,PhD students and postdoctoral fellows,5000-15000,6,6/2/2023,289,8
+599,Medical Research,PhD students and postdoctoral fellows,50000-100000,36,6/14/2023,1453,78
+600,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,36,11/16/2023,1149,28
+601,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,12,1/30/2023,1712,192
+602,Materials Science,PhD students and postdoctoral fellows,5000-15000,36,9/3/2023,1757,160
+603,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,24,2/28/2023,1558,99
+604,Chemical Engineering,Researchers from developing countries,100000-250000,36,12/26/2023,994,105
+605,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,6,11/4/2023,663,178
+606,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,4/11/2023,817,142
+607,Neuroscience,Researchers from developing countries,5000-15000,6,8/22/2023,222,31
+608,Medical Research,PhD students and postdoctoral fellows,5000-15000,12,4/3/2023,1896,52
+609,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,36,8/7/2023,917,5
+610,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,24,8/26/2023,1199,172
+611,Electrical Engineering,PhD students and postdoctoral fellows,500000-1000000,12,11/5/2023,1132,51
+612,Physics,Researchers from developing countries,100000-250000,12,2/25/2023,228,67
+613,Computer Science,Early-career researchers with a PhD or equivalent degree,100000-250000,12,5/20/2023,258,71
+614,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,36,11/20/2023,921,165
+615,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,36,6/2/2023,1428,151
+616,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,36,1/13/2023,1552,68
+617,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,6,3/28/2023,1066,135
+618,Computer Science,Researchers from developing countries,25000-50000,36,3/12/2023,1087,146
+619,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,12,3/27/2023,1952,139
+620,Environmental Science,Early-career researchers with a PhD or equivalent degree,500000-1000000,12,10/14/2023,850,150
+621,Physics,Researchers from developing countries,20000-50000,36,10/8/2023,267,41
+622,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,24,1/22/2023,1101,135
+623,Environmental Science,Early-career researchers with a PhD or equivalent degree,5000-10000,12,5/16/2023,1914,54
+624,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,12,10/8/2023,364,124
+625,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,24,3/7/2023,1921,99
+626,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,24,10/5/2023,1145,175
+627,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,7/6/2023,1864,133
+628,Medical Research,Researchers from developing countries,100000-500000,24,6/11/2023,898,24
+629,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,10/2/2023,1412,138
+630,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,24,8/2/2023,1593,47
+631,Environmental Science,PhD students and postdoctoral fellows,50000-100000,12,3/11/2023,1501,135
+632,Physics,PhD students and postdoctoral fellows,5000-15000,24,10/1/2023,1497,182
+633,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,6,11/15/2023,1300,56
+634,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,12,9/3/2023,1765,5
+635,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,36,11/12/2023,1938,36
+636,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,36,6/8/2023,803,159
+637,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,6,12/12/2023,1655,57
+638,Physics,Early-career researchers with a PhD or equivalent degree,50000-100000,36,6/10/2023,1176,13
+639,Electrical Engineering,PhD students and postdoctoral fellows,20000-50000,24,4/25/2023,573,193
+640,Neuroscience,Early-career researchers with a PhD or equivalent degree,25000-50000,24,1/24/2023,212,99
+641,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,36,5/3/2023,666,72
+642,Electrical Engineering,Researchers from developing countries,100000-500000,12,5/19/2023,1048,42
+643,Medical Research,Early-career researchers with a PhD or equivalent degree,500000-1000000,36,1/8/2023,1296,46
+644,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,36,2/27/2023,1027,155
+645,Materials Science,PhD students and postdoctoral fellows,20000-50000,24,9/2/2023,411,45
+646,Physics,Researchers from developing countries,20000-50000,24,1/3/2023,422,48
+647,Physics,Researchers from developing countries,500000-1000000,24,6/18/2023,743,70
+648,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,36,6/3/2023,1714,189
+649,Medical Research,PhD students and postdoctoral fellows,100000-250000,24,5/28/2023,433,103
+650,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,12,1/21/2023,301,36
+651,Environmental Science,Researchers from developing countries,20000-50000,24,5/31/2023,620,160
+652,Physics,Early-career researchers with a PhD or equivalent degree,5000-10000,36,1/13/2023,1667,136
+653,Physics,Researchers from developing countries,100000-500000,24,12/3/2023,1533,161
+654,Neuroscience,Early-career researchers with a PhD or equivalent degree,5000-15000,12,3/31/2023,1279,190
+655,Electrical Engineering,Researchers from developing countries,100000-500000,6,6/16/2023,1040,42
+656,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,12,9/2/2023,703,55
+657,Environmental Science,Researchers from developing countries,100000-500000,6,11/14/2023,1178,8
+658,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,6,6/25/2023,378,63
+659,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,36,5/19/2023,1256,174
+660,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,36,9/28/2023,1731,143
+661,Electrical Engineering,Researchers from developing countries,25000-50000,24,2/18/2023,785,24
+662,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,1/15/2023,408,10
+663,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,12,6/5/2023,1660,194
+664,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,24,1/28/2023,1842,188
+665,Neuroscience,PhD students and postdoctoral fellows,25000-50000,24,2/17/2023,1140,19
+666,Computer Science,PhD students and postdoctoral fellows,100000-500000,12,1/20/2023,291,82
+667,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,24,6/22/2023,247,74
+668,Computer Science,PhD students and postdoctoral fellows,20000-50000,36,8/13/2023,1288,104
+669,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,12,4/27/2023,462,133
+670,Computer Science,PhD students and postdoctoral fellows,5000-10000,24,4/19/2023,920,165
+671,Electrical Engineering,PhD students and postdoctoral fellows,20000-50000,6,7/20/2023,1116,58
+672,Environmental Science,PhD students and postdoctoral fellows,5000-10000,24,4/3/2023,978,43
+673,Materials Science,PhD students and postdoctoral fellows,100000-500000,36,4/20/2023,1170,146
+674,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,20000-50000,36,10/14/2023,855,88
+675,Physics,PhD students and postdoctoral fellows,100000-250000,12,11/6/2023,1267,93
+676,Computer Science,PhD students and postdoctoral fellows,100000-250000,24,12/20/2023,1918,10
+677,Environmental Science,Early-career researchers with a PhD or equivalent degree,20000-50000,12,3/6/2023,499,19
+678,Computer Science,Early-career researchers with a PhD or equivalent degree,5000-15000,6,6/6/2023,1111,56
+679,Neuroscience,Early-career researchers with a PhD or equivalent degree,25000-50000,12,5/28/2023,1407,109
+680,Neuroscience,Researchers from developing countries,500000-1000000,12,11/7/2023,543,156
+681,Physics,PhD students and postdoctoral fellows,25000-50000,36,11/30/2023,1702,121
+682,Chemical Engineering,Researchers from developing countries,50000-100000,6,7/15/2023,489,32
+683,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,24,3/22/2023,894,141
+684,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,6,1/20/2023,1304,176
+685,Physics,PhD students and postdoctoral fellows,100000-500000,36,3/20/2023,1911,119
+686,Neuroscience,Researchers from developing countries,100000-250000,6,11/20/2023,1119,77
+687,Neuroscience,Early-career researchers with a PhD or equivalent degree,5000-10000,12,11/23/2023,459,154
+688,Environmental Science,Early-career researchers with a PhD or equivalent degree,5000-15000,12,2/1/2023,1437,66
+689,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,36,8/14/2023,408,163
+690,Physics,PhD students and postdoctoral fellows,25000-50000,12,4/3/2023,1242,143
+691,Materials Science,Researchers from developing countries,500000-1000000,12,3/20/2023,1702,189
+692,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,6,12/10/2023,684,21
+693,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,6,8/24/2023,1107,174
+694,Chemical Engineering,PhD students and postdoctoral fellows,500000-1000000,12,12/8/2023,1466,26
+695,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,24,2/16/2023,1747,116
+696,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,36,12/30/2023,408,114
+697,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,6,3/5/2023,601,96
+698,Medical Research,Researchers from developing countries,100000-250000,24,12/3/2023,739,179
+699,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,12,6/15/2023,1514,33
+700,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,24,12/22/2023,1588,188
+701,Neuroscience,Researchers from developing countries,5000-10000,12,5/22/2023,1126,112
+702,Computer Science,Early-career researchers with a PhD or equivalent degree,5000-10000,36,11/12/2023,880,126
+703,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,36,10/29/2023,1807,21
+704,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,24,3/21/2023,923,162
+705,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,36,8/9/2023,1272,25
+706,Neuroscience,Researchers from developing countries,5000-10000,36,10/13/2023,557,67
+707,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,24,6/3/2023,564,99
+708,Medical Research,Early-career researchers with a PhD or equivalent degree,5000-15000,6,5/16/2023,1061,178
+709,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,6,2/19/2023,657,151
+710,Neuroscience,Researchers from developing countries,25000-50000,36,4/20/2023,641,139
+711,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,12,6/27/2023,1796,64
+712,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,24,3/11/2023,270,108
+713,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,12,3/17/2023,1255,13
+714,Materials Science,Researchers from developing countries,500000-1000000,6,4/10/2023,1987,158
+715,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,12,10/17/2023,1656,83
+716,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,12,8/26/2023,1291,140
+717,Medical Research,PhD students and postdoctoral fellows,20000-50000,36,7/16/2023,1155,100
+718,Neuroscience,PhD students and postdoctoral fellows,5000-15000,6,12/26/2023,1477,138
+719,Electrical Engineering,Researchers from developing countries,100000-250000,12,12/31/2023,1265,68
+720,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,6,3/13/2023,1612,144
+721,Physics,PhD students and postdoctoral fellows,500000-1000000,36,8/16/2023,1391,93
+722,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,6,1/25/2023,1602,103
+723,Electrical Engineering,Researchers from developing countries,25000-50000,6,2/21/2023,1646,135
+724,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,24,8/28/2023,1071,173
+725,Electrical Engineering,Researchers from developing countries,100000-250000,24,6/4/2023,331,87
+726,Electrical Engineering,Researchers from developing countries,500000-1000000,24,6/12/2023,1462,54
+727,Environmental Science,Researchers from developing countries,20000-50000,24,8/29/2023,503,181
+728,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,24,1/21/2023,1929,156
+729,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,36,3/13/2023,1847,95
+730,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,24,10/13/2023,1111,30
+731,Environmental Science,Early-career researchers with a PhD or equivalent degree,100000-500000,24,6/18/2023,374,8
+732,Computer Science,PhD students and postdoctoral fellows,25000-50000,6,3/6/2023,1150,47
+733,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,24,5/7/2023,877,8
+734,Neuroscience,Early-career researchers with a PhD or equivalent degree,100000-500000,12,7/9/2023,548,144
+735,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,24,10/29/2023,678,144
+736,Neuroscience,Early-career researchers with a PhD or equivalent degree,500000-1000000,12,3/10/2023,890,174
+737,Materials Science,Early-career researchers with a PhD or equivalent degree,5000-10000,24,11/27/2023,1835,65
+738,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,36,7/9/2023,1483,149
+739,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,6,3/31/2023,57,21
+740,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,12,6/7/2023,574,181
+741,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,6,8/10/2023,707,103
+742,Materials Science,Early-career researchers with a PhD or equivalent degree,100000-250000,12,2/26/2023,719,67
+743,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,24,1/5/2023,1780,71
+744,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,36,8/12/2023,1317,22
+745,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,24,5/5/2023,1431,124
+746,Electrical Engineering,Researchers from developing countries,100000-250000,24,10/21/2023,1293,163
+747,Medical Research,Researchers from developing countries,500000-1000000,24,1/24/2023,1875,12
+748,Environmental Science,Early-career researchers with a PhD or equivalent degree,20000-50000,36,9/21/2023,1531,170
+749,Medical Research,Early-career researchers with a PhD or equivalent degree,500000-1000000,6,8/5/2023,1920,115
+750,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,12,9/29/2023,184,164
+751,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,1/20/2023,1153,180
+752,Physics,Researchers from developing countries,100000-500000,24,6/21/2023,210,135
+753,Materials Science,Researchers from developing countries,20000-50000,24,9/7/2023,112,186
+754,Environmental Science,Early-career researchers with a PhD or equivalent degree,100000-250000,6,7/11/2023,1650,136
+755,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,25000-50000,24,9/20/2023,1198,58
+756,Medical Research,Researchers from developing countries,100000-500000,12,5/11/2023,330,28
+757,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,36,7/17/2023,1467,55
+758,Electrical Engineering,PhD students and postdoctoral fellows,50000-100000,6,12/10/2023,1047,155
+759,Physics,Researchers from developing countries,100000-250000,24,7/6/2023,1987,149
+760,Computer Science,Researchers from developing countries,500000-1000000,24,5/1/2023,1829,92
+761,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,5/4/2023,1740,187
+762,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,36,5/10/2023,650,84
+763,Electrical Engineering,Researchers from developing countries,5000-10000,24,7/15/2023,608,176
+764,Neuroscience,Early-career researchers with a PhD or equivalent degree,100000-250000,36,1/10/2023,1244,137
+765,Physics,Researchers from developing countries,25000-50000,12,3/30/2023,603,63
+766,Computer Science,Early-career researchers with a PhD or equivalent degree,100000-250000,6,4/4/2023,1892,140
+767,Chemical Engineering,Researchers from developing countries,5000-15000,24,8/18/2023,1020,134
+768,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,500000-1000000,36,9/24/2023,1746,191
+769,Physics,Early-career researchers with a PhD or equivalent degree,5000-10000,6,12/9/2023,725,137
+770,Chemical Engineering,Researchers from developing countries,100000-500000,12,5/2/2023,1002,47
+771,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,24,11/29/2023,1061,173
+772,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,36,3/22/2023,1715,152
+773,Neuroscience,Early-career researchers with a PhD or equivalent degree,5000-10000,6,6/20/2023,1432,5
+774,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,5000-15000,6,4/19/2023,585,25
+775,Electrical Engineering,Researchers from developing countries,25000-50000,36,2/27/2023,1818,161
+776,Materials Science,Early-career researchers with a PhD or equivalent degree,25000-50000,24,1/5/2023,1904,13
+777,Medical Research,Early-career researchers with a PhD or equivalent degree,100000-250000,6,4/7/2023,509,71
+778,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,12,12/21/2023,1928,112
+779,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,12,6/3/2023,62,114
+780,Computer Science,Researchers from developing countries,50000-100000,24,3/29/2023,1178,50
+781,Chemical Engineering,PhD students and postdoctoral fellows,500000-1000000,6,2/16/2023,1476,123
+782,Physics,PhD students and postdoctoral fellows,20000-50000,6,9/8/2023,293,26
+783,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,36,10/18/2023,961,8
+784,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,5000-15000,36,4/13/2023,398,167
+785,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,100000-250000,24,6/25/2023,1473,82
+786,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,24,3/3/2023,406,16
+787,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,100000-500000,12,7/7/2023,167,171
+788,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,6/27/2023,348,71
+789,Electrical Engineering,PhD students and postdoctoral fellows,25000-50000,36,12/8/2023,1029,75
+790,Electrical Engineering,Researchers from developing countries,50000-100000,6,10/28/2023,1315,21
+791,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,12,1/19/2023,315,198
+792,Medical Research,Early-career researchers with a PhD or equivalent degree,500000-1000000,6,3/12/2023,1369,40
+793,Physics,Researchers from developing countries,50000-100000,24,8/14/2023,967,38
+794,Electrical Engineering,Researchers from developing countries,50000-100000,6,6/21/2023,132,5
+795,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,7/4/2023,1505,69
+796,Materials Science,PhD students and postdoctoral fellows,100000-500000,6,5/6/2023,882,126
+797,Medical Research,Researchers from developing countries,20000-50000,36,6/20/2023,685,154
+798,Materials Science,PhD students and postdoctoral fellows,5000-15000,12,8/6/2023,839,47
+799,Materials Science,Researchers from developing countries,20000-50000,36,6/28/2023,1505,196
+800,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,11/28/2023,1904,166
+801,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,6,1/31/2023,821,178
+802,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,24,3/28/2023,821,168
+803,Physics,Researchers from developing countries,5000-10000,24,3/25/2023,761,28
+804,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,36,2/13/2023,473,162
+805,Electrical Engineering,Researchers from developing countries,25000-50000,24,12/31/2023,474,126
+806,Chemical Engineering,PhD students and postdoctoral fellows,20000-50000,36,2/8/2023,1800,120
+807,Environmental Science,Early-career researchers with a PhD or equivalent degree,5000-15000,6,12/6/2023,376,124
+808,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,6,2/13/2023,1725,23
+809,Materials Science,Researchers from developing countries,500000-1000000,36,11/16/2023,1180,61
+810,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,24,7/20/2023,1498,15
+811,Medical Research,PhD students and postdoctoral fellows,100000-500000,24,1/10/2023,1058,126
+812,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,12,11/14/2023,176,71
+813,Environmental Science,PhD students and postdoctoral fellows,25000-50000,36,12/26/2023,886,173
+814,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,36,8/11/2023,1692,15
+815,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,12,12/14/2023,1443,40
+816,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,12,8/5/2023,230,74
+817,Physics,Researchers from developing countries,25000-50000,6,3/2/2023,1534,48
+818,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,12/18/2023,1406,125
+819,Neuroscience,Researchers from developing countries,50000-100000,36,2/13/2023,465,66
+820,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,12,11/19/2023,1202,147
+821,Neuroscience,Early-career researchers with a PhD or equivalent degree,20000-50000,6,1/13/2023,1617,102
+822,Materials Science,Early-career researchers with a PhD or equivalent degree,500000-1000000,36,4/15/2023,1909,54
+823,Neuroscience,PhD students and postdoctoral fellows,50000-100000,36,7/23/2023,1359,21
+824,Neuroscience,PhD students and postdoctoral fellows,5000-15000,36,5/6/2023,1865,162
+825,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,11/20/2023,74,15
+826,Chemical Engineering,Researchers from developing countries,100000-500000,6,9/24/2023,1601,84
+827,Neuroscience,Early-career researchers with a PhD or equivalent degree,100000-500000,6,2/18/2023,1204,101
+828,Medical Research,Early-career researchers with a PhD or equivalent degree,500000-1000000,12,12/16/2023,345,118
+829,Materials Science,Researchers from developing countries,100000-250000,24,1/28/2023,1473,14
+830,Materials Science,PhD students and postdoctoral fellows,50000-100000,36,8/31/2023,533,28
+831,Environmental Science,PhD students and postdoctoral fellows,20000-50000,6,1/2/2023,1829,172
+832,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,25000-50000,24,9/24/2023,1187,144
+833,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,6,9/15/2023,206,98
+834,Materials Science,Researchers from developing countries,5000-10000,36,5/13/2023,1519,130
+835,Medical Research,PhD students and postdoctoral fellows,100000-250000,36,12/27/2023,566,11
+836,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,3/17/2023,186,192
+837,Physics,Early-career researchers with a PhD or equivalent degree,500000-1000000,24,3/17/2023,674,82
+838,Chemical Engineering,PhD students and postdoctoral fellows,100000-250000,36,7/9/2023,1949,98
+839,Environmental Science,PhD students and postdoctoral fellows,25000-50000,12,12/8/2023,570,97
+840,Chemical Engineering,PhD students and postdoctoral fellows,25000-50000,24,3/8/2023,166,147
+841,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,6,6/28/2023,638,88
+842,Environmental Science,Researchers from developing countries,5000-15000,12,12/31/2023,663,170
+843,Medical Research,PhD students and postdoctoral fellows,100000-500000,24,6/6/2023,1338,189
+844,Neuroscience,Researchers from developing countries,5000-15000,12,3/26/2023,1425,113
+845,Neuroscience,PhD students and postdoctoral fellows,500000-1000000,24,6/22/2023,1609,180
+846,Physics,Researchers from developing countries,500000-1000000,12,10/13/2023,1436,196
+847,Physics,Researchers from developing countries,100000-500000,24,7/9/2023,225,63
+848,Physics,Researchers from developing countries,25000-50000,6,6/29/2023,706,20
+849,Neuroscience,Early-career researchers with a PhD or equivalent degree,500000-1000000,36,2/25/2023,1208,17
+850,Physics,Researchers from developing countries,25000-50000,12,9/16/2023,601,170
+851,Environmental Science,Researchers from developing countries,20000-50000,36,4/7/2023,1764,134
+852,Environmental Science,Early-career researchers with a PhD or equivalent degree,20000-50000,12,5/18/2023,1159,44
+853,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,12,2/13/2023,924,131
+854,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,6,8/6/2023,1011,39
+855,Environmental Science,PhD students and postdoctoral fellows,5000-15000,12,3/18/2023,800,126
+856,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,6,7/10/2023,1835,105
+857,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,36,2/5/2023,1984,124
+858,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,5000-10000,12,4/29/2023,467,18
+859,Physics,PhD students and postdoctoral fellows,500000-1000000,36,10/2/2023,146,75
+860,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,12,11/17/2023,406,66
+861,Computer Science,PhD students and postdoctoral fellows,5000-10000,12,1/16/2023,946,149
+862,Computer Science,Early-career researchers with a PhD or equivalent degree,100000-250000,12,12/31/2023,1977,71
+863,Computer Science,PhD students and postdoctoral fellows,5000-15000,36,10/17/2023,672,140
+864,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,24,10/18/2023,1511,49
+865,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,500000-1000000,12,2/5/2023,1929,98
+866,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,6,12/12/2023,941,172
+867,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,36,11/16/2023,1386,9
+868,Neuroscience,Early-career researchers with a PhD or equivalent degree,500000-1000000,24,7/29/2023,1235,182
+869,Materials Science,PhD students and postdoctoral fellows,50000-100000,36,6/7/2023,935,81
+870,Computer Science,PhD students and postdoctoral fellows,100000-250000,24,3/20/2023,177,30
+871,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,6,9/10/2023,810,158
+872,Chemical Engineering,PhD students and postdoctoral fellows,25000-50000,24,8/19/2023,482,31
+873,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,36,12/2/2023,1404,173
+874,Physics,Researchers from developing countries,500000-1000000,6,9/13/2023,1220,143
+875,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,12,10/4/2023,891,95
+876,Electrical Engineering,Researchers from developing countries,50000-100000,36,6/10/2023,250,104
+877,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,6,11/1/2023,514,122
+878,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,24,8/23/2023,1136,142
+879,Physics,Researchers from developing countries,50000-100000,12,3/23/2023,1791,57
+880,Computer Science,PhD students and postdoctoral fellows,5000-15000,36,12/15/2023,530,59
+881,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,24,1/27/2023,1761,64
+882,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,6,7/30/2023,168,120
+883,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,36,11/8/2023,1968,85
+884,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,6,10/18/2023,1431,10
+885,Medical Research,Early-career researchers with a PhD or equivalent degree,50000-100000,36,1/31/2023,187,103
+886,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,36,6/10/2023,898,141
+887,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,12,9/19/2023,627,167
+888,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,36,4/17/2023,847,96
+889,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,5000-10000,6,10/24/2023,1132,6
+890,Physics,Researchers from developing countries,20000-50000,12,7/12/2023,906,56
+891,Environmental Science,PhD students and postdoctoral fellows,20000-50000,36,10/7/2023,856,63
+892,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,100000-250000,24,4/4/2023,1367,103
+893,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,12,8/26/2023,440,84
+894,Computer Science,Researchers from developing countries,25000-50000,24,5/5/2023,403,111
+895,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,24,8/12/2023,635,125
+896,Environmental Science,PhD students and postdoctoral fellows,500000-1000000,6,8/6/2023,497,68
+897,Materials Science,PhD students and postdoctoral fellows,100000-500000,12,10/13/2023,684,134
+898,Physics,PhD students and postdoctoral fellows,50000-100000,24,5/24/2023,363,48
+899,Physics,Researchers from developing countries,20000-50000,6,2/9/2023,313,68
+900,Neuroscience,PhD students and postdoctoral fellows,5000-15000,6,9/10/2023,1787,127
+901,Medical Research,Researchers from developing countries,5000-10000,12,12/2/2023,135,141
+902,Neuroscience,Researchers from developing countries,100000-500000,6,7/2/2023,1173,118
+903,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,36,2/27/2023,316,17
+904,Medical Research,Early-career researchers with a PhD or equivalent degree,100000-500000,12,1/25/2023,1066,82
+905,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,36,12/9/2023,1661,166
+906,Materials Science,Early-career researchers with a PhD or equivalent degree,25000-50000,36,1/28/2023,772,66
+907,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,36,10/17/2023,1792,66
+908,Neuroscience,Early-career researchers with a PhD or equivalent degree,50000-100000,36,9/13/2023,313,188
+909,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",5000-10000,24,7/1/2023,55,28
+910,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",20000-50000,36,3/3/2023,1260,96
+911,Environmental Science,PhD students and postdoctoral fellows,5000-15000,36,5/19/2023,701,119
+912,Environmental Science,PhD students and postdoctoral fellows,100000-500000,6,12/14/2023,412,136
+913,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,6,9/9/2023,1372,43
+914,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,24,5/10/2023,963,25
+915,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,7/2/2023,1750,172
+916,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,24,4/9/2023,567,157
+917,Chemical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,24,5/11/2023,161,170
+918,Medical Research,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,36,11/6/2023,1823,117
+919,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,25000-50000,12,10/21/2023,282,180
+920,Environmental Science,PhD students and postdoctoral fellows,25000-50000,36,5/23/2023,1941,15
+921,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,24,3/31/2023,628,51
+922,Electrical Engineering,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,6,3/26/2023,1554,173
+923,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,6,5/5/2023,626,69
+924,Chemical Engineering,Researchers from developing countries,50000-100000,12,3/19/2023,736,44
+925,Chemical Engineering,Researchers from developing countries,100000-500000,36,8/19/2023,1142,171
+926,Neuroscience,Researchers from developing countries,5000-15000,24,12/9/2023,1978,101
+927,Electrical Engineering,Researchers from developing countries,50000-100000,6,9/18/2023,72,159
+928,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,36,1/1/2023,1736,164
+929,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,24,10/7/2023,588,73
+930,Neuroscience,Early-career researchers with a PhD or equivalent degree,500000-1000000,6,1/22/2023,1156,80
+931,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,36,5/10/2023,1788,159
+932,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",500000-1000000,24,8/15/2023,55,21
+933,Neuroscience,Researchers from developing countries,25000-50000,12,7/31/2023,153,151
+934,Computer Science,Researchers from developing countries,100000-500000,36,8/4/2023,997,190
+935,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,6,1/15/2023,1071,43
+936,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,36,9/17/2023,234,70
+937,Materials Science,Researchers from developing countries,50000-100000,36,7/31/2023,156,187
+938,Materials Science,PhD students and postdoctoral fellows,500000-1000000,12,9/23/2023,641,159
+939,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,50000-100000,36,6/30/2023,639,111
+940,Materials Science,Early-career researchers with a PhD or equivalent degree,100000-250000,36,9/21/2023,1142,180
+941,Computer Science,Researchers from developing countries,25000-50000,24,8/11/2023,1230,92
+942,Materials Science,Researchers from developing countries,5000-10000,24,9/27/2023,692,161
+943,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,6,4/12/2023,802,55
+944,Materials Science,PhD students and postdoctoral fellows,50000-100000,36,11/21/2023,1384,50
+945,Electrical Engineering,PhD students and postdoctoral fellows,5000-10000,24,10/9/2023,1953,60
+946,Electrical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,24,9/15/2023,195,134
+947,Medical Research,Researchers from developing countries,5000-10000,24,12/29/2023,120,74
+948,Environmental Science,Researchers from developing countries,20000-50000,6,10/10/2023,486,56
+949,Materials Science,"Established researchers with at least 5 years of experience, must have NIH funding",20000-50000,24,7/29/2023,751,193
+950,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-500000,24,1/11/2023,1057,63
+951,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,24,11/1/2023,1901,22
+952,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,50000-100000,24,12/23/2023,259,23
+953,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,5000-10000,24,3/1/2023,491,28
+954,Materials Science,Researchers from developing countries,50000-100000,36,6/30/2023,1628,129
+955,Physics,Early-career researchers with a PhD or equivalent degree,5000-15000,36,10/19/2023,959,87
+956,Materials Science,PhD students and postdoctoral fellows,5000-15000,6,10/21/2023,341,190
+957,Materials Science,Early-career researchers with a PhD or equivalent degree,500000-1000000,12,3/2/2023,1299,93
+958,Physics,PhD students and postdoctoral fellows,100000-250000,36,12/15/2023,1097,34
+959,Environmental Science,Early-career researchers with a PhD or equivalent degree,20000-50000,6,11/30/2023,1124,30
+960,Materials Science,Researchers from developing countries,100000-250000,6,1/7/2023,752,47
+961,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,6,2/27/2023,1240,102
+962,Physics,PhD students and postdoctoral fellows,5000-10000,24,1/17/2023,812,142
+963,Environmental Science,Researchers from developing countries,100000-500000,36,1/2/2023,1503,77
+964,Neuroscience,PhD students and postdoctoral fellows,20000-50000,36,7/10/2023,591,106
+965,Computer Science,Researchers from developing countries,25000-50000,12,8/27/2023,588,38
+966,Neuroscience,Early-career researchers with a PhD or equivalent degree,50000-100000,6,11/27/2023,1880,130
+967,Computer Science,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,12,9/28/2023,1792,42
+968,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-15000,24,1/7/2023,1237,165
+969,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,36,9/18/2023,803,176
+970,Neuroscience,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",25000-50000,6,8/27/2023,1353,149
+971,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,24,9/18/2023,1787,151
+972,Medical Research,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,24,7/4/2023,1288,40
+973,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,12,11/11/2023,207,5
+974,Computer Science,Researchers from developing countries,500000-1000000,24,9/29/2023,850,179
+975,Computer Science,Early-career researchers with a PhD or equivalent degree,500000-1000000,12,6/7/2023,1715,104
+976,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,6,12/8/2023,1381,98
+977,Environmental Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,6,10/13/2023,594,164
+978,Environmental Science,Researchers from developing countries,500000-1000000,36,6/29/2023,873,84
+979,Medical Research,PhD students and postdoctoral fellows,5000-15000,24,3/23/2023,555,43
+980,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,24,4/17/2023,268,191
+981,Neuroscience,Researchers from developing countries,500000-1000000,36,5/17/2023,816,78
+982,Physics,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",100000-250000,24,8/15/2023,300,100
+983,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",25000-50000,12,10/9/2023,1948,153
+984,Materials Science,Researchers from developing countries,50000-100000,36,7/20/2023,1638,163
+985,Materials Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,12,12/15/2023,940,86
+986,Physics,Early-career researchers with a PhD or equivalent degree,100000-500000,36,10/19/2023,755,187
+987,Electrical Engineering,PhD students and postdoctoral fellows,5000-15000,6,7/29/2023,1521,184
+988,Chemical Engineering,Early-career researchers with a PhD or equivalent degree,5000-15000,36,3/18/2023,207,101
+989,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",100000-500000,6,5/7/2023,106,39
+990,Electrical Engineering,Early-career researchers with a PhD or equivalent degree,5000-10000,36,9/5/2023,427,32
+991,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",5000-10000,24,5/15/2023,1406,11
+992,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",50000-100000,6,3/1/2023,78,55
+993,Chemical Engineering,"Established researchers with at least 5 years of experience, must have NIH funding",5000-15000,6,10/3/2023,1267,17
+994,Medical Research,Researchers from developing countries,100000-500000,36,4/15/2023,1675,55
+995,Neuroscience,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,36,4/12/2023,92,98
+996,Computer Science,"Graduate students and postdoctoral fellows, must have a GPA of 3.0 or higher",500000-1000000,6,12/23/2023,1410,190
+997,Environmental Science,Researchers from developing countries,100000-250000,12,4/12/2023,1943,107
+998,Physics,"Established researchers with at least 5 years of experience, must have NIH funding",100000-250000,6,11/15/2023,1590,28
+999,Environmental Science,"Established researchers with at least 5 years of experience, must have NIH funding",50000-100000,12,7/11/2023,411,104
+1000,Computer Science,Early-career researchers with a PhD or equivalent degree,25000-50000,12,10/31/2023,1864,66
