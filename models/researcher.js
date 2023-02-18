@@ -7,7 +7,7 @@ const researcherSchema = new mongoose.Schema({
     designation: String,
     department: String,
     instituion: String,
-    description: String,
+    bio: String,
     publication: [String],
     awards: [String],
     bookChapters: [String],
