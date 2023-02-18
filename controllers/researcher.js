@@ -129,7 +129,7 @@ exports.addAwards = async (req, res) => {
 
     const data = await User.findByIdAndUpdate(
       {_id: id},
-      {awards: updatedAwards}
+      {$push: {awards: updatedAwards}}
     )
 
     const updatedUser = await User.findById(id)
@@ -147,7 +147,7 @@ exports.addConference = async (req, res) => {
 
     const data = await User.findByIdAndUpdate(
       {_id: id},
-      {conference: updatedConference}
+      {$push: {conference: updatedConference}}
     )
 
     const updatedUser = await User.findById(id)
@@ -183,7 +183,7 @@ exports.addBookChapters = async (req, res) => {
 
     const data = await User.findByIdAndUpdate(
       {_id: id},
-      {bookChapters: updatedBookChapters}
+      {$push: {bookChapters: updatedBookChapters}}
     )
 
     const updatedUser = await User.findById(id)
