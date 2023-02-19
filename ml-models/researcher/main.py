@@ -13,39 +13,49 @@ from sklearn.neighbors import NearestNeighbors
 import pickle
 
 df = pd.read_csv('researcher_grant_scheme.csv')
-
-# df.head()
+print(df.head())
+# df2 = df
 
 #feature Encoding
 from sklearn.preprocessing import LabelEncoder
-le = LabelEncoder()
-df['research_area']=le.fit_transform(df['research_area'])
-df['eligible']=le.fit_transform(df['eligible'])
-df['grant_amt']=le.fit_transform(df['grant_amt'])
-df['app_dead']=le.fit_transform(df['app_dead'])
-# df.head()
+le1 = LabelEncoder()
+le2 = LabelEncoder()
+le3 = LabelEncoder()
+le4 = LabelEncoder()
+df['research_area']=le1.fit_transform(df['research_area'])
+df['eligible']=le2.fit_transform(df['eligible'])
+df['grant_amt']=le3.fit_transform(df['grant_amt'])
+df['app_dead']=le4.fit_transform(df['app_dead'])
+print(df.head())
+
+# print(df['research_area'].iloc[:5])
+# print(df['research_area'].iloc[:5])
 
 # Initialize KNN model
-knn = NearestNeighbors(n_neighbors=5, metric='euclidean')
+knn = NearestNeighbors(n_neighbors=20, metric='euclidean')
 
-# Fit KNN model on selected columns
+# # Fit KNN model on selected columns
 knn.fit(df)
 
-# Function to recommend similar profiles
+# # Function to recommend similar profiles
 def recommend_scheme(scheme_id):
     # Get researcher data
     scheme_data = df.loc[scheme_id, :].values.reshape(1,-1)
-
+    
     # Find similar scheme using KNN model
     _, neighbor_indices = knn.kneighbors(scheme_data)
 
+    print(neighbor_indices[0][1:])
     recommend_schemes   = []
-    # Print recommended scheme
-    print('scheme similar to scheme ID {}:'.format(scheme_id))
+ 
     for i, idx in enumerate(neighbor_indices[0][1:]):
-        # print('{}. scheme ID {} with similarity score of {}'.format(i+1, idx, _[0][i+1]))
-        # recommend_schemes.append(idx)
-        scheme = df.loc[idx].to_dict()
+        scheme = df.loc[idx].to_dict()    
+        
+        scheme['research_area'] = le1.inverse_transform([scheme['research_area']])[0]
+        scheme['eligible'] = le2.inverse_transform([scheme['eligible']])[0]
+        scheme['grant_amt'] = le3.inverse_transform([scheme['grant_amt']])[0]
+        scheme['app_dead'] = le4.inverse_transform([scheme['app_dead']])[0]
+
         recommend_schemes.append(scheme)
     # return recommend_schemes
     
@@ -54,4 +64,4 @@ def recommend_scheme(scheme_id):
     return json_data
 
 # Example usage: recommend scheme similar to Researcher ID 10
-print(recommend_scheme(10))
+# print(recommend_scheme(1))
