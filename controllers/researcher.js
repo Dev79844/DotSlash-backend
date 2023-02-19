@@ -68,16 +68,16 @@ exports.loginUser = async (req, res) => {
     const user = await User.findOne({email})
 
     if (user && (password === user.password)) {
-      // const token = jwt.sign(
-      //   {user_id: user._id, email},
-      //   process.env.SECRET_KEY,
-      //   {
-      //     expiresIn: "1d",
-      //   }
-      // )
+      const token = jwt.sign(
+        {user_id: user._id, email},
+        process.env.SECRET_KEY,
+        {
+          expiresIn: "1d",
+        }
+      )
 
-      // user.token = token
-      // user.password = undefined
+      user.token = token
+      user.password = undefined
 
       res.status(200).json(user)
     }

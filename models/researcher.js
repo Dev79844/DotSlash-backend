@@ -21,6 +21,7 @@ const researcherSchema = new mongoose.Schema({
     token: String,
     age: Number,
     permanetEmployment: Boolean,
+    token: String
 })
 
 module.exports = mongoose.model('User', researcherSchema)
