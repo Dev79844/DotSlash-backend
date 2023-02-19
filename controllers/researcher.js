@@ -67,7 +67,7 @@ exports.loginUser = async (req, res) => {
 
     const user = await User.findOne({email})
 
-    if (user && (password === user.password) {
+    if (user && (password === user.password)) {
       // const token = jwt.sign(
       //   {user_id: user._id, email},
       //   process.env.SECRET_KEY,
@@ -92,7 +92,7 @@ exports.getProfile = async (req, res) => {
     const id = req.params.id
     // console.log(req)
 
-    const data = await User.findById(id)
+    const data = await User.find({researcherID: id})
 
     res.status(200).json(data)
   } catch (error) {
@@ -106,11 +106,11 @@ exports.addPublication = async (req, res) => {
     const {updatedPublication} = req.body
 
     const data = await User.findByIdAndUpdate(
-      {_id: id},
+      {researcherID: id},
       {$push: {publication: updatedPublication}}
     )
 
-    const updatedUser = await User.findById(id)
+    const updatedUser = await User.find({researcherID: id})
 
     res.status(200).json(updatedUser)
   } catch (error) {
@@ -124,11 +124,11 @@ exports.addAwards = async (req, res) => {
     const {updatedAwards} = req.body
 
     const data = await User.findByIdAndUpdate(
-      {_id: id},
+      {researcherID: id},
       {$push: {awards: updatedAwards}}
     )
 
-    const updatedUser = await User.findById(id)
+    const updatedUser = await User.find({researcherID: id})
 
     res.status(200).json(updatedUser)
   } catch (error) {
@@ -142,11 +142,11 @@ exports.addConference = async (req, res) => {
     const {updatedConference} = req.body
 
     const data = await User.findByIdAndUpdate(
-      {_id: id},
+      {researcherID: id},
       {$push: {conference: updatedConference}}
     )
 
-    const updatedUser = await User.findById(id)
+    const updatedUser = await User.find({researcherID: id})
 
     res.status(200).json(updatedUser)
   } catch (error) {
@@ -160,11 +160,11 @@ exports.addQualification = async (req, res) => {
     const {updatedQual} = req.body
 
     const data = await User.findByIdAndUpdate(
-      {_id: id},
+      {researcherID: id},
       {qualifications: updatedQual}
     )
 
-    const updatedUser = await User.findById(id)
+    const updatedUser = await User.find({researcherID: id})
 
     res.status(200).json(updatedUser)
   } catch (error) {
@@ -178,11 +178,11 @@ exports.addBookChapters = async (req, res) => {
     const {updatedBookChapters} = req.body
 
     const data = await User.findByIdAndUpdate(
-      {_id: id},
+      {researcherID: id},
       {$push: {bookChapters: updatedBookChapters}}
     )
 
-    const updatedUser = await User.findById(id)
+    const updatedUser = await User.find({researcherID: id})
 
     res.status(200).json(updatedUser)
   } catch (error) {
@@ -195,9 +195,9 @@ exports.addBio = async (req, res) => {
     const id = req.params.id
     const {updatedBio} = req.body
 
-    const data = await User.findByIdAndUpdate({_id: id}, {bio: updatedBio})
+    const data = await User.findByIdAndUpdate({researcherID: id}, {bio: updatedBio})
 
-    const updatedUser = await User.findById(id)
+    const updatedUser = await User.find({researcherID: id})
 
     res.status(200).json(updatedUser)
   } catch (error) {

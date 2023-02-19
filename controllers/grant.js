@@ -15,7 +15,7 @@ exports.getGrant = async(req,res) => {
     try{
         const id = req.params.id
 
-        const data = await Grant.findById(id)
+        const data = await Grant.find({schemeId: id})
 
         res.status(200).json(data)
     }catch(error){
