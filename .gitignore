@@ -1,4 +1,2 @@
 node_modules
 .env
-ml-models/researcher/venv
-ml-models/researcher/__pycache__
