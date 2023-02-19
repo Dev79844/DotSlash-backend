@@ -105,7 +105,7 @@ exports.addPublication = async (req, res) => {
     const id = req.params.id
     const {updatedPublication} = req.body
 
-    const data = await User.findByIdAndUpdate(
+    const data = await User.findOneAndUpdate(
       {researcherID: id},
       {$push: {publication: updatedPublication}}
     )
@@ -123,7 +123,7 @@ exports.addAwards = async (req, res) => {
     const id = req.params.id
     const {updatedAwards} = req.body
 
-    const data = await User.findByIdAndUpdate(
+    const data = await User.findOneAndUpdate(
       {researcherID: id},
       {$push: {awards: updatedAwards}}
     )
@@ -141,7 +141,7 @@ exports.addConference = async (req, res) => {
     const id = req.params.id
     const {updatedConference} = req.body
 
-    const data = await User.findByIdAndUpdate(
+    const data = await User.findOneAndUpdate(
       {researcherID: id},
       {$push: {conference: updatedConference}}
     )
@@ -159,7 +159,7 @@ exports.addQualification = async (req, res) => {
     const id = req.params.id
     const {updatedQual} = req.body
 
-    const data = await User.findByIdAndUpdate(
+    const data = await User.findOneAndUpdate(
       {researcherID: id},
       {qualifications: updatedQual}
     )
@@ -177,7 +177,7 @@ exports.addBookChapters = async (req, res) => {
     const id = req.params.id
     const {updatedBookChapters} = req.body
 
-    const data = await User.findByIdAndUpdate(
+    const data = await User.findOneAndUpdate(
       {researcherID: id},
       {$push: {bookChapters: updatedBookChapters}}
     )
@@ -195,7 +195,7 @@ exports.addBio = async (req, res) => {
     const id = req.params.id
     const {updatedBio} = req.body
 
-    const data = await User.findByIdAndUpdate({researcherID: id}, {bio: updatedBio})
+    const data = await User.findOneAndUpdate({researcherID: id}, {bio: updatedBio})
 
     const updatedUser = await User.find({researcherID: id})
 
