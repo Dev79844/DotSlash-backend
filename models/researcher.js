@@ -1,10 +1,15 @@
 const mongoose = require('mongoose')
 
 const researcherSchema = new mongoose.Schema({
+    researcherID: Number,
     name: String,
+    researchArea: String,
+    researchMethod: String,
+    designation: String,
+    gender: String,
+    yoe: Number,
     email: String,
     password: String,
-    designation: String,
     department: String,
     instituion: String,
     bio: String,
@@ -15,7 +20,7 @@ const researcherSchema = new mongoose.Schema({
     qualifiations: [String],
     token: String,
     age: Number,
-    permanetEmployment: Boolean
+    permanetEmployment: Boolean,
 })
 
 module.exports = mongoose.model('User', researcherSchema)

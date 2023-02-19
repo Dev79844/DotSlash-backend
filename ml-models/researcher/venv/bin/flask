@@ -1,4 +1,4 @@
-#!/Users/devparikh/Desktop/WebDev/DotSlash-backend/ml-models/researcher/venv/bin/python3
+#!/Users/devparikh/Desktop/WebDev/DotSlash-backend/ml-models/researcher/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys

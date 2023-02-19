@@ -34,12 +34,10 @@ exports.registerUser = async (req, res) => {
       res.status(401).send("User already exists")
     }
 
-    const encPass = await bcrypt.hash(password, 10)
-
     const user = await User.create({
       name,
       email,
-      password: encPass,
+      password,
       designation,
       department,
       institution,
@@ -47,13 +45,11 @@ exports.registerUser = async (req, res) => {
       permanentEmployment,
     })
 
-    const token = jwt.sign({user_id: user._id, email}, process.env.SECRET_KEY, {
-      expiresIn: "1d",
-    })
+    // const token = jwt.sign({user_id: user._id, email}, process.env.SECRET_KEY, {
+    //   expiresIn: "1d",
+    // })
 
-    user.token = token
-
-    user.password = undefined
+    // user.token = token
 
     res.status(201).json(user)
   } catch (error) {
@@ -71,17 +67,17 @@ exports.loginUser = async (req, res) => {
 
     const user = await User.findOne({email})
 
-    if (user && (await bcrypt.compare(password, user.password))) {
-      const token = jwt.sign(
-        {user_id: user._id, email},
-        process.env.SECRET_KEY,
-        {
-          expiresIn: "1d",
-        }
-      )
+    if (user && (password === user.password) {
+      // const token = jwt.sign(
+      //   {user_id: user._id, email},
+      //   process.env.SECRET_KEY,
+      //   {
+      //     expiresIn: "1d",
+      //   }
+      // )
 
-      user.token = token
-      user.password = undefined
+      // user.token = token
+      // user.password = undefined
 
       res.status(200).json(user)
     }
